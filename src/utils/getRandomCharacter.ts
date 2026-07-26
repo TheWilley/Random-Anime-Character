@@ -4,7 +4,7 @@ import type { Character } from '../global/types.ts';
  * Gets a random Character object from `characters.json` dataset.
  */
 async function getRandomCharacter() {
-  const response = await fetch('/characters.json');
+  const response = await fetch('./characters.json');
   const characters = (await response.json()) as Character[];
 
   // Source - https://stackoverflow.com/a/4550514
