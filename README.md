@@ -5,7 +5,7 @@ from [MyAnimeList's top 500 most favorited characters](https://myanimelist.net/c
 
 ## How to use
 
-Simply go to the [official webpage](https://thewilley.github.io/random-anime-character/) to get
+Simply go to the [official webpage](https://thewilley.github.io/Random-Anime-Character/) to get
 started, or run the app yourself by following these steps:
 
 ```bash
