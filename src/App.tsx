@@ -107,10 +107,13 @@ function App() {
         <section className='mt-8 mb-8 opacity-70'>
           <div className='flex justify-center'>
             <div className='flex justify-between gap-5 max-w-56'>
-              <a href='https://github.com' target='_blank'>
+              <a
+                href='https://github.com/TheWilley/Random-Anime-Character'
+                target='_blank'
+              >
                 <img src={Invertocat} alt='GitHub' className='size-6' />
               </a>
-              <a href='/characters.json' target='_blank'>
+              <a href='characters.json' target='_blank'>
                 <Icon path={mdiCodeJson} className='text-white size-6' />
               </a>
             </div>
