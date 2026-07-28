@@ -1,7 +1,7 @@
 # Random Anime Character
 
 Very simple web app to get a random anime character. The dataset (characters the app choose from) is derived
-from [MyAnimeList's top 1000 most favorited characters](https://myanimelist.net/character.php) as of 2026/07/26.
+from [MyAnimeList's top 1000 most favorited characters](https://myanimelist.net/character.php) as of 2026/07/28.
 
 ## How to use
 
